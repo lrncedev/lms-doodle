@@ -4,11 +4,11 @@ include "./includes/top.php";
 <header class="flex py-5 px-8 justify-between items-center shadow-md shadow-gray-300">
   <h1 class="font-bold text-4xl">Dmail</h1>
   <div class="links">
-    <a href="./pages/signin.php" class="px-5 py-2 border-2 border-gray-700 border-solid mr-5 rounded-md">Sign In</a>
-    <a href="./pages/signup.php" class="px-5 py-2 bg-blue-700 text-white text-bold rounded-md font-bold">Create Account</a>
+    <a href="./pages/signin.php" class="px-5 py-2 mr-3 rounded-md">Sign In</a>
+    <a href="./pages/signup.php" class="px-5 py-2 bg-blue-700  text-white text-bold rounded-md font-bold">Create Account</a>
   </div>
 </header>
-<div class="grid grid-cols-2 min-h-screen place-content-center">
+<div class="grid grid-cols-2 mt-32 place-content-center">
   <div class="home-text grid place-content-center">
     <h2 class="text-6xl font-bold">
       Insecure, semi smart, <br>
